@@ -20,3 +20,8 @@
  **8** Creates a NAT Gateway To Public Subnet
 
  **9** And Finally Launches An Ec2 Instance Which Serves as a Bastion Host Into Public Subnet
+ 
+ ### Future Commits May Include Multiple Private Instances And A Load Balancer
+
+ 
+Article : 
